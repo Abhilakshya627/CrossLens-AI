@@ -1,0 +1,2 @@
+"""FastAPI composition entry points."""
+
